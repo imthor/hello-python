@@ -1,0 +1,6 @@
+result*
+build/
+.flox/
+hello/__pycache__/
+hello_python.egg-info/
+/.flox
